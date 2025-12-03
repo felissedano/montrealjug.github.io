@@ -20,6 +20,7 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/8742852ac6f6d46432ce3fc982d67ccc?s=50"/> Romain Dalichamp <strong>(Secrétaire)</strong> (romain at montreal-jug.org)
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Ludovic Remacle <strong>(Trésorier)</strong> (ludovic at montreal-jug.org)  
 - <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Marion Félix (marion at montreal-jug.org)  
+- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Felis Sedano (felis at montreal-jug.org)
 
 ## Alumni
 
@@ -31,6 +32,4 @@ Voici les membres actuels (a.k.a JUG Leaders) par ordre de séniorité:
 ## Bénévoles / Aspirant 
 
 Merci à tous les bénévoles qui nous aident ou nous ont aidé à réaliser les Java User Group de Montréal !
-
-- <img class="bio-photo bio-member" src="https://www.gravatar.com/avatar/nop?s=50"/> Felis Sedano
 
